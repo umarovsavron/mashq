@@ -1,0 +1,2 @@
+# mashq
+dars uchun
